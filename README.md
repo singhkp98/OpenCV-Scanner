@@ -10,5 +10,5 @@ The application will receive an image as input containing the document to be sca
 - convert the document in black and white (to make it look as a scan)
 - save the document in a specific folder in order to retrieve it 
 
-![Uploading scanned.jpg…]()
+![Alt text](https://user-images.githubusercontent.com/80750958/125322269-dfab7c80-e33d-11eb-8a0c-37364f007813.jpg)
 
