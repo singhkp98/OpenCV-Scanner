@@ -9,3 +9,6 @@ The application will receive an image as input containing the document to be sca
 - crop the document
 - convert the document in black and white (to make it look as a scan)
 - save the document in a specific folder in order to retrieve it 
+
+![Uploading scanned.jpg…]()
+
